@@ -71,5 +71,6 @@ A user-friendly interface has been built using Streamlit, allowing users to inte
 
 ## Demo
 
-Insert gif or link to demo
+https://github.com/hashirbhatti/SMS-Spam-Classifier/assets/77647802/9b2a09cc-aaeb-4d97-b05a-cdd865b96dd0
+
 
